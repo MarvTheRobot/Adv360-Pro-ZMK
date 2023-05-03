@@ -36,11 +36,11 @@
 
         macos {
             bindings = <
-&trans  &trans    &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &trans    &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSLASH
-&trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &trans  &kp HASH  &trans  &trans          &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans         &trans
+&trans  &trans           &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans         &trans
+&trans  &trans           &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans         &trans
+&trans  &trans           &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSLASH
+&trans  &trans           &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &trans
+&trans  &trans  &kp NON_US_HASH  &trans  &trans          &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans         &trans
             >;
         };
 
